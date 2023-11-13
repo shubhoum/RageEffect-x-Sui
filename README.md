@@ -1,18 +1,6 @@
 # RageOnSui
 Rage Effect on Sui
 
-# Test Gamers’ Wallet Accounts
-
-All gamer accounts have 1 Sui in them.
-
-Public Keys
-
-0xab34e27430c9216a30080ed95c42e2432a87706fb186330abb5a3c244e16fa99
-0x935bbd29b8fee386639b9342df70616f3a591d477ad72c538de402cb116f3f8f
-0x7ebc321a69830dfac162819fd66645d7640120d30e7446928f80d4d7c5f1358d
-0xeb86df9ccaff085797c73180e82e2d11e1bff2b562bf0993bbc1fd395fa07187
-0x6a3c4f4937563a20204325e9e5767a40b3af6f239aa2ea57b7987573ca11f4bf
-
 ## Mint SUI token
 
 POST: https://api-staging.mirrorworld.fun/v2/sui/testnet/asset/rage-effect/mint
