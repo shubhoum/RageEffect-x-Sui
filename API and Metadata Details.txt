@@ -3,7 +3,9 @@ SUI Get All Present in the Wallet : "https://api.mirrorworld.fun/v2/sui/testnet/
 SUI Get NFT Detail : "https://api-staging.mirrorworld.fun/v2/sui/testnet/asset/rage-effect/find/";
 IP Info : "http://www.geoplugin.net/php.gp?ip={ipAddress}"
 
-Dynamic NFT Metadata:
+Metadata Info:
+
+Dynamic NFT:
 
 {
   "playtime_required": 6000,
@@ -12,8 +14,18 @@ Dynamic NFT Metadata:
   "total_playtime": 0
 }
 
-Skill Based Progression NFT Metadata:
+
+Skill Based Progression NFT
 
 {
   "claimed" : false
+}
+
+
+Geo-Tagged NFT
+
+{
+   US: "https://api.rageeffect.io/php/nft/image/geo_us.jpg",
+   NP: "https://api.rageeffect.io/php/nft/image/geo_np.jpg",
+   FR: "https://api.rageeffect.io/php/nft/image/geo_fr.jpg"
 }
